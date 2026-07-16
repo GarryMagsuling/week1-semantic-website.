@@ -11,7 +11,7 @@ What is on each page:
 # Sinigang na Manok Ingredients: Tender pieces of chicken simmered in a sour, savory tamarind broth loaded with radish, sitaw (long beans), eggplant, and fresh leafy greens.
 # Beef Kare-Kare: Slow-cooked beef portions in a thick, rich peanut sauce, served with local vegetables and savory bagoong (shrimp paste) on the side.
 # Sizzling Sisig Tacos Ingredients: Three soft corn tortillas filled with crispy pork sisig, onions, cilantro, and a squeeze of calamansi
-# chef.html (Meet the Chef): Chef's Motto "Ang pagluluto ay hindi pabebe, lahat masarap pati ako."
+# chef(Meet the Chef): Chef's Motto "Ang pagluluto ay hindi pabebe, lahat masarap pati ako."
 
 # Accessibility features I used:
 - No divs! I only used semantic tags like header, nav, main, section, article, and footer.
