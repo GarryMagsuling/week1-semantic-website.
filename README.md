@@ -11,7 +11,14 @@ RESTOGAR is a simple semantic HTML restaurant website. It contains multiple page
 ## Live Website
 https://garrymagsuling.github.io/week1-semantic-website/
 
+# Screenshots
 
+![Home](images/devtools.png.png)
+![About](images/devtools.png%20(2).png)
+![Menu](images/devtools.png%20(3).png)
+![Chef](images/devtools.png%20(4).png)
+![DevTools](images/devtools.png%20(5).png)
+![DevTools 2](images/devtools.png%20(6).png)
 
 
 
